@@ -25,7 +25,7 @@
     <h2>Toon een zelfgekozen tafel tussen twee getallen</h2>
     <form action="" method="GET">
       <input name="tabel" placeholder="tafel"><br>
-      <input name="start" placeholder="beginwaarde"><br>
+      <input name="start" placeholder="beginwaa rde"><br>
       <input name="end" placeholder="eindwaarde"><br>
       <input name="submit" type="submit">
     </form>
