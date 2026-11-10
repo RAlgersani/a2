@@ -44,9 +44,9 @@
     <form action="" method="POST">
       <table>
         <tr>
-          <td><img src="./assets/img_01.jpg" height="275" width="275"></td>
-          <td><img src="./assets/img_02.jpg" height="275" width="275"></td>
-          <td><img src="./assets/img_03.jpg" height="275" width="275"></td>
+          <td><img src="./images/img_01.jpg" height="275" width="275"></td>
+          <td><img src="./images/img_02.jpg" height="275" width="275"></td>
+          <td><img src="./images/img_03.jpg" height="275" width="275"></td>
         </tr>
         <tr>
           <td><input type="radio" name="wood-type" value="1">Donker eiken hout (€ 9,50/m²)</td>
